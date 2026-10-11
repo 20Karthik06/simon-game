@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+.box {
+    height : 200px;
+    width : 200px;
+    border : 10px solid black;
+    border-radius: 20%;
+    margin : 20px;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+}
+
+.green {
+    background-color: #2E9599;
+}
+
+.yellow {
+    background-color: #F7DC68;
+}
+
+.orange {
+    background-color: #F46C3F;
+}
+
+.purple {
+    background-color: #A7226F;
+}
+
+.flashWhite {
+    background-color: white;
+}
+
+.flashGreen {
+    background-color: lightgreen;
+}
